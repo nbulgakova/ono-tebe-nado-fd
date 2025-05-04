@@ -460,10 +460,10 @@ h3 {
 .footer__socials__menu {
     display: flex;
     gap: 48px;
-    margin-left: 106px;  
- }
+    margin-left: 106px;
+}
 
-    .footer__socials__image {
+.footer__socials__image {
     object-fit: contain;
     width: 48px;
     height: 48px;
