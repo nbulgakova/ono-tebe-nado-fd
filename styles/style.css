@@ -332,6 +332,7 @@ h3 {
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
     font-style: normal;
+    
 }
 
 .about__logo {
@@ -348,6 +349,7 @@ h3 {
     display: grid;
     margin-top: 133px;
     margin-left: 72px;
+    gap: 24px;
 }
 
 .about__title {
@@ -361,6 +363,7 @@ h3 {
     letter-spacing: 0px;
     margin-top: 3px;
     margin-left: 0px;
+    margin-bottom: 76px;
     padding-top: 3.5px;
     padding-bottom: 3.5px;
 }
@@ -371,12 +374,8 @@ h3 {
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0px;
-}
-
-.about__text__here {
     margin-right: 5px;
-    margin-top: 100px;
-    margin-bottom: 24px;
+    justify-content: space-between; 
 }
 
 .footer {
